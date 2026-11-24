@@ -1,2 +1,2 @@
 # work-partner-renewals-pipeline
-Renewal tracking and at-risk partners (simulated data)
+Renewal tracking and at-risk Vendors (simulated data)
